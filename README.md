@@ -25,8 +25,6 @@ Javascript, HTML, CSS, C, C++, Java ...
 
 📫 Contact via portfolio...
 
-😄 Pronouns...
-
 ⚡️ Fun fact me TOPPER
 
 
@@ -36,6 +34,6 @@ Javascript, HTML, CSS, C, C++, Java ...
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](PurnimaMahato.github.io/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://purnimamahato.github.io/)
 
 
