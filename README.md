@@ -1,16 +1,41 @@
-### Hi there 👋
 
-<!--
-**PurnimaMahato/PurnimaMahato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## I'm Purnima
+I'm ... IDK actually what I am .....
+
+
+## Appendix
+
+Quick Learner
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, C, C++, Java ...
+
+
+## Ummm I don't know the name of this section
+👩‍💻 I'm currently working on My Skills.
+
+🧠 I'm currently learning DSA.
+
+💬 Ask me nothing...
+
+📫 Contact via portfolio...
+
+😄 Pronouns...
+
+⚡️ Fun fact me TOPPER
+
+
+## Roadmap
+
+- Ofc getting a job.
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](PurnimaMahato.github.io/)
+
+
