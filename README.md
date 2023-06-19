@@ -1,18 +1,17 @@
 
-# Hi 
+# Hiiiiiiiii 🙋
 
 
 
-## I'm Purnima
-I'm ... IDK actually what I am .....
+## I'm Purnima 👩
 
 
-## About me 
+I am quick learner with academic abilities and technical knowledge to succeed in different roles. Ready to expand horizons with additional knowledge and abilities gained from training and experience. Always ready to help others and use abilities to support team goals.<br>
+....( Cherry-picked😗)
+<br>
+<br>
 
-Quick learner with academic abilities and technical knowledge to succeed in different roles. Ready to expand horizons with additional knowledge and abilities gained from training and experience. Always ready to help others and use abilities to support team goals.
-
-
-## 📋📚Languages and Frameworks I use....
+## 📋📚 Programming Languages and Frameworks I use....
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -28,7 +27,11 @@ Quick learner with academic abilities and technical knowledge to succeed in diff
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 </div>
-## 💾 Databases
+<br>
+<br>
+
+
+## 💾 Databases 
 <div align="center">
   <img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
@@ -36,10 +39,16 @@ Quick learner with academic abilities and technical knowledge to succeed in diff
  </div> 
 
 
-## Ummm I don't know the name of this section
+## I wanna you say something that 😌👉👈 
 👩‍💻 I'm currently working on My Skills.
 
 🧠 I'm currently learning Web Development.
+
+👩‍🎓 I'm a CSE student btw...
+
+🥺 Looking for internships.....(so hire me piliz😒)
+
+😘 I'm a good singer ( According to me 😗....) hehehe...
 
 💬 Ask me nothing...
 
@@ -48,12 +57,14 @@ Quick learner with academic abilities and technical knowledge to succeed in diff
 ⚡️ Fun fact me TOPPER
 
 
-## Roadmap
 
-- Ofc getting a job.
+## Roadmap 🚀
+
+- Ofc getting a job 👩💼🙃.
 
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://purnimamahato.github.io/)
 
+## ok byeeee.......
 
