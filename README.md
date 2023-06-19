@@ -39,7 +39,7 @@ I am quick learner with academic abilities and technical knowledge to succeed in
  </div> 
 
 
-## I wanna you say something that 😌👉👈 
+## I wanna say you something that 😌👉👈 
 👩‍💻 I'm currently working on My Skills.
 
 🧠 I'm currently learning Web Development.
