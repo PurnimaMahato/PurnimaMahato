@@ -42,7 +42,7 @@ I am quick learner with academic abilities and technical knowledge to succeed in
 ## I wanna say you something that 😌👉👈 
 👩‍💻 I'm currently working on My Skills.
 
-🧠 I'm currently learning Web Development.
+🧠 I'm currently taking 4 month Java Full stack training from Anudip Foundation.
 
 👩‍🎓 I'm a CSE student btw...
 
