@@ -66,5 +66,11 @@ I am quick learner with academic abilities and technical knowledge to succeed in
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://purnimamahato.github.io/)
 
+
+## *Lemme count the views of my profile ...*
+
+![views](https://visitor-badge.laobi.icu/badge?page_id=PurnimaMahato.PurnimaMahato.github.io)
+
+
 ## ok byeeee.......
 
