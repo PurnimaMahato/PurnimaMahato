@@ -47,7 +47,7 @@ I am quick learner with academic abilities and technical knowledge to succeed in
 
 👩‍🎓 I'm a CSE student btw...
 
-🥺 Looking for internships.....(so hire me piliz😒)
+🥺 Me joblesss....(so hire me piliz😒)
 
 😘 I'm a good singer ( According to me 😗....) hehehe...
 
