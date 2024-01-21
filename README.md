@@ -70,7 +70,7 @@ I am quick learner with academic abilities and technical knowledge to succeed in
 
 ## *Lemme count the visitors of my profile :) ...*
 
-![views](https://visitor-badge.laobi.icu/badge?page_id=PurnimaMahato)
+![views](https://visitor-badge.laobi.icu/badge?page_id=PurnimaMahato.PurnimaMahato)
 
 
 ## ok byeeee.......
